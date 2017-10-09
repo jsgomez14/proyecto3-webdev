@@ -1,3 +1,5 @@
+/*Felipe Iregui: En ninguna parte encontre los documentos con lo Methods de insecure o los de autopublish*/
+
 A starter project for React &amp; Meteor
 
 This repo aims to get you up and running with with React with little effort. It has sane defaults that 
