@@ -1,3 +1,4 @@
+/* Felipe Iregui: A este .json le faltan muchas dependencias. Las dependencias del uso de react o mongo deberian estar aca.*/
 {
   "classnames": "2.1.3",
   "externalify": "0.1.0"
