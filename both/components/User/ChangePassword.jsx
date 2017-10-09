@@ -1,3 +1,4 @@
+/*Felipe Iregui: La verdad no entendi del todo como utilizan estos componentes pero eso del creatClass lo que medio entendi se me hace muy util y chevere.*/
 ChangePassword = React.createClass({
 	onSubmit(e) {
 		e.preventDefault();
